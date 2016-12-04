@@ -1,0 +1,64 @@
+
+  [
+    {
+      "category": "Retail",
+      "city": "Milwaukee",
+      "company": "JumpXS",
+      "description": "Store full of crap you will never need",
+      "email": "stuff@jxs.com",
+      "phone": "1-(414)555-0199",
+      "state": "Wisconsin",
+      "street_address": "856 Sheridan Terrace",
+      "years_in_business": 7,
+      "zipcode": "53234"
+    },
+    {
+      "category": "IT",
+      "city": "Delray Beach",
+      "company": "Lazz",
+      "description": "People who fix and set up computers",
+      "email": "assange@lazz.net",
+      "phone": "1-(561)544-0208",
+      "state": "Florida",
+      "street_address": "30173 Harbort Avenue",
+      "years_in_business": 9,
+      "zipcode": "33448"
+    },
+    {
+      "category": "Transportation",
+      "city": "Atlantic City",
+      "company": "D&D Coach Tours",
+      "description": "Company that has people drive you around in charter busses",
+      "email": "eh2020@ddbustours.com",
+      "phone": "1-(737)555-9911",
+      "state": "New Jersey",
+      "street_address": "10120 Industrial Way",
+      "years_in_business": 15,
+      "zipcode": "10532"
+    },
+    {
+      "category": "Education",
+      "city": "Stamford",
+      "company": "Apple Tree Learning",
+      "description": "People who teach you stuff you need to learn",
+      "email": "adouche@appletree.org",
+      "phone": "1-(203)323-1519",
+      "state": "Connecticut",
+      "street_address": "900 Summer Street",
+      "years_in_business": 10,
+      "zipcode": "06901"
+    },
+    {
+      "category": "Law",
+      "city": "New York",
+      "company": "Rosen, Rosenstein, Rosenpenis, and Berg",
+      "description": "Accident, Family and Criminal lawyers",
+      "email": "brosen@rrrb.com",
+      "phone": "1-(212)888-8888",
+      "state": "New York",
+      "street_address": "2300 West 57th Street",
+      "years_in_business": 27,
+      "zipcode": "10021"
+    }
+  ]
+
